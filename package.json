@@ -1,0 +1,13 @@
+{
+  "name": "esp8266-serial-control",
+  "version": "1.0.0",
+  "description": "\"Esp8266 serial control\"",
+  "main": "index.js",
+  "repository": "https://github.com/HoangHoi/esp8266-serial-control.git",
+  "author": "Hoang Hoi",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "serialport": "^6.2.2"
+  }
+}
